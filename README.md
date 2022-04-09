@@ -1,2 +1,2 @@
-# evarings - учебный проект
-4 ый день
+# evarings - cinema
+1 ый день
